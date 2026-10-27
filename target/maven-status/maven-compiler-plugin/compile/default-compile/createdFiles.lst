@@ -1,0 +1,13 @@
+com\cinematch\util\TmdbService.class
+com\cinematch\ui\LoginFrame.class
+com\cinematch\ui\HomeFrame$4.class
+com\cinematch\ui\RecommendationsFrame.class
+com\cinematch\ui\RegisterFrame.class
+com\cinematch\util\DatabaseConnection.class
+com\cinematch\ui\HomeFrame$3.class
+com\cinematch\service\RecommendationService.class
+com\cinematch\ui\HomeFrame.class
+com\cinematch\CineMatchApp.class
+com\cinematch\service\RecommendationService$MovieRecommendation.class
+com\cinematch\ui\HomeFrame$2.class
+com\cinematch\ui\HomeFrame$1.class
